@@ -1,4 +1,4 @@
-# ORIGINAL CODE BY SERGIO P. PEREZ
+# ORIGINAL INPAINTING CODE BY SERGIO P. PEREZ
 * https://github.com/sergiopperez/Image_Inpainting
 
 
